@@ -1,11 +1,12 @@
 import "../src/App.css"
+import { Link } from "react-router-dom"
 
 export default function Homepage(){
     return (
         <>
             <nav>
                 <h1 className="logo">Poller</h1>
-                <h5 className="nav-items"> Sign In</h5>
+                <Link to="/active">Sign In</Link>
             </nav>
             <div className="hero">
                 <div className="hero-left">
