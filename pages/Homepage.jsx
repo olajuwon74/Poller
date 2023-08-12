@@ -12,10 +12,13 @@ export default function Homepage(){
                 <div className="hero-left">
                     <div className="hero-left-content">
                         <p>Spurn up a poll that cannot be manipulated
-                        Get real time concise information in various forms</p>
+                        Get real time concise information in various forms.
+                        Built on the worldcoin proof of personhood, polls are ensured to be accurate
+                        and genuine
+                        </p>
                     </div>
                     <div className="hero-left-button">
-                        <button>Create Poll</button>
+                    <Link to="/create"><button>Create Poll</button></Link>
                         <button id="sign-up">Sign up</button>
                     </div>
                 </div>
