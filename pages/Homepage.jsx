@@ -25,18 +25,18 @@ export default function Homepage(){
                     </div>
                 </div>
                 <div className="hero-right">
-                    <img src="/public/comp-removebg-preview 1.svg" alt="hero-image"></img>
+                    <img src="/comp-removebg-preview 1.svg" alt="hero-image"></img>
                 </div>
             </div>
             <div className="trustee">
                 <p id="trustee-content">Trusted by</p>
                 
-                <img src="/public/simple-icons_cocacola.svg"></img>
-                <img src="/public/mdi_apple-ios.svg"></img>
-                <img src="/public/logos_redhat.svg"></img>
-                <img src="/public/cib_spacex.svg"></img>
-                <img src="/public/simple-icons_fifa.svg"></img>
-                <img src="/public/simple-icons_emirates.svg"></img>
+                <img src="/simple-icons_cocacola.svg"></img>
+                <img src="/mdi_apple-ios.svg"></img>
+                <img src="/logos_redhat.svg"></img>
+                <img src="/cib_spacex.svg"></img>
+                <img src="/simple-icons_fifa.svg"></img>
+                <img src="/simple-icons_emirates.svg"></img>
                 
             </div>
             <div className="how-it-works">
@@ -52,14 +52,14 @@ export default function Homepage(){
                     Get real time concise information in various forms</p>
                 </div>
             </div>
-            <img src="/public/Blue and Pink Minimalist Aesthetic Trendy Cosmic Cubes Phone Wallpaper (1) 1.svg" id="top-image"></img>
+            <img src="/Blue and Pink Minimalist Aesthetic Trendy Cosmic Cubes Phone Wallpaper (1) 1.svg" id="top-image"></img>
             <div className="store">
                 
                 <h2>What is in store for you?</h2>
-                <img src="/public/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
-                <img src="/public/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
-                <img src="/public/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
-                <img src="/public/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
+                <img src="/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
+                <img src="/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
+                <img src="/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
+                <img src="/Small Trendy Cosmic Cubes Phone Wallpaper (1) 6.png" id="store-content"></img>
                 <div id="store-items">
                     <p id="store-items-content">Analytics and advanced graphical repesentation </p>
                     <p id="store-items-content">Analytics and advanced graphical repesentation </p>

@@ -7,7 +7,7 @@ export default function Sidebar(){
     const menuItem = [
         {
             path:"/active",
-            icon:"/public/pajamas_check-xs (1).svg",
+            icon:"/pajamas_check-xs (1).svg",
             name:"Active Poll"
         },
         {
@@ -17,7 +17,7 @@ export default function Sidebar(){
         },
         {
             path:"/polls",
-            icon:"/public/ic_baseline-folder.svg",
+            icon:"/ic_baseline-folder.svg",
             name:"My Polls"
         }
     ]
