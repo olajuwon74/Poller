@@ -8,7 +8,7 @@ export default function Worldcoin(){
         app_id="app_GBkZ1KlVUdFTjeMXKlVUdFT" // obtained from the Developer Portal
         action="vote_1" // this is your action name from the Developer Portal
         signal="Poll-Vote" // any arbitrary value the user is committing to, e.g. a vote
-        onSuccess={Active}
+        onSuccess={<Active />}
         theme="dark"
         credential_types={['phone']} // the credentials you want to accept
         enableTelemetry

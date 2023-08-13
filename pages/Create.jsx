@@ -3,7 +3,7 @@ import "../src/App.css"
 
 export default function Create(){
     return(
-        <div className="content-section">
+        <div className="content-section-2">
             <form>
                 <div className="details-info">
                     <input type="text" placeholder="Enter title" id="text-input"></input>
