@@ -1,6 +1,5 @@
 import { IDKitWidget } from "@worldcoin/idkit";
 import Active from "../pages/Active";
-// import Homepage from "../pages/Homepage";
 
 export default function Worldcoin(){
     return(
