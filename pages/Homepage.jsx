@@ -8,6 +8,7 @@ export default function Homepage(){
             <nav>
                 <h1 className="logo">Poller</h1>
                 <Link to="/signin"> Sign In</Link>
+              
                     
             </nav>
             <div className="hero">
@@ -26,6 +27,7 @@ export default function Homepage(){
                 </div>
                 <div className="hero-right">
                     <img src="/comp-removebg-preview 1.svg" alt="hero-image"></img>
+                    <i className="bi bi-box-arrow-in-right"></i>
                 </div>
             </div>
             <div className="trustee">

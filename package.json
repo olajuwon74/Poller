@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@worldcoin/idkit": "^0.5.1",
+    "bootstrap": "5.3.1",
+    "bootstrap-icons": "^1.10.5",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",

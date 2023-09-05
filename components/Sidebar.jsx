@@ -7,7 +7,7 @@ export default function Sidebar(){
     const menuItem = [
         {
             path:"/active",
-            icon:"/pajamas_check-xs (1).svg",
+            icon:<i className="bi bi-check-circle-fill"></i>,
             name:"Active Poll"
         },
         {
