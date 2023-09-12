@@ -1,5 +1,5 @@
 import "../src/App.css"
-import { Link } from "react-router-dom"
+import { Link} from "react-router-dom"
 
 
 export default function Homepage(){
@@ -22,7 +22,7 @@ export default function Homepage(){
                     </div>
                     <div className="hero-left-button">
                     <Link to="/create"><button>Create Poll</button></Link>
-                        <button id="sign-up">Sign up</button>
+                    <Link to="/signin"><button id="sign-up">Sign up</button></Link>
                     </div>
                 </div>
                 <div className="hero-right">
